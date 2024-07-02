@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Val
+- 👀 I’m interested in creating a more Low-tech web
+- 🌱 I’m currently learning 11ty and sustainable workflow with and without headless CMS integration
+- 📫 How to reach me vbelperroud[at]gmail.com
+- 😄 Pronouns: he/they
+- ⚡ Fun fact: I'm really not a big fan of trends and shinny new framework, sorry :/ 
